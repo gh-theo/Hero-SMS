@@ -2,7 +2,7 @@
 
 # Hero SMS - 国外接码平台
 
-[完整详情与最新信息](https://eoht.net/serve/code/sms) · [账号合租与数字账号汇总](https://github.com/gh-theo/sharing-summary)
+[完整详情与最新信息](https://eoht.net/serve/code/sms) · [账号合租与数字账号汇总](https://github.com/jcsift/sharing-summary)
 
 ![Hero SMS](https://i.eoht.net/docs/hero-sms-og.webp)
 
