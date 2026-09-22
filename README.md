@@ -175,3 +175,5 @@ Hero SMS 提供 API，适合：
 [立即前往 Hero SMS](https://eoht.net/serve/code/sms)
 
 > 在数据即资产的时代，<br>Hero SMS 给你的是一把**临时钥匙**，<br>门怎么用，取决于你自己。
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
